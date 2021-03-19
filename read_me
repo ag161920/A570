@@ -1,0 +1,3 @@
+The Jupyter notebook and files contained in this repository are part of Armaan Goyal's submission for the Final Project of the Spring 2021 term of A575: Galactic Dynamics.
+
+A note on the naming of the template files: The number at the end of the filename represents 10x the value of W0 to which it corresponds (e.g. king_56 is a King model for W0 = 5.6).
